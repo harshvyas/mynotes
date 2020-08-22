@@ -11,5 +11,5 @@ draft: false
 
 {{< mermaid >}}
 graph LR
-    constructs in stack written in python code --> cdk-cli compilation --> cloudformation deployment
+    A["constructs in stack written in python code"] --> B["cdk-cli compilation"] --> C["cloudformation deployment"]
 {{< /mermaid >}}
