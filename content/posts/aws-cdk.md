@@ -8,3 +8,5 @@ draft: false
 3. declarative JSON/YAML via cloudformation
 4. document-obj-model (DOM) via troposphere
 5. componentized via aws-cdk 
+
+{{< youtube id="w7Ft2ymGmfc" autoplay="true" >}}
