@@ -9,7 +9,7 @@ draft: false
 4. document-obj-model (DOM) via troposphere
 5. componentized via aws-cdk 
 
-{{<mermaid align="left">}}
+{{< mermaid >}}
 graph LR;
     A[Hard edge] -->|Link text| B(Round edge)
     B --> C{Decision}
