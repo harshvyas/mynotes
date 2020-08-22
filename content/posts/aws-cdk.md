@@ -10,9 +10,6 @@ draft: false
 5. componentized via aws-cdk 
 
 {{< mermaid >}}
-flowchart LR
-    subgraph code
-    (stacks)
-    (constructs)
-    end
+graph LR
+    constructs in stack written in python code --> cdk-cli compilation --> cloudformation deployment
 {{< /mermaid >}}
